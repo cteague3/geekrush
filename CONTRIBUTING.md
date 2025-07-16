@@ -5,7 +5,7 @@ This platform thrives on community creativity and collaboration.
 
 ## How to Contribute
 - Read our [Use-Case Overview](docs/use-case-overview.md) to get up to speed.
-- Check out open [Issues](https://github.com/YOUR_USERNAME/geekrush/issues) and [Project Board](https://github.com/YOUR_USERNAME/geekrush/projects).
+- Check out open [Issues](https://github.com/cteague3/geekrush/issues) and [Project Board](https://github.com/cteague3/geekrush/projects).
 - Submit ideas via GitHub Issues or Discussions.
 - Fork the repo, make changes in a feature branch, and open a Pull Request.
 
